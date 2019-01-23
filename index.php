@@ -1,3 +1,3 @@
 <?php
-echo "Hello world from Heroku!
+echo "Hello world from Heroku!"
 ?>
